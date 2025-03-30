@@ -8,9 +8,11 @@ Use IDM forever without cracking. If you can, [buy a license](https://j2team.dev
 
 ![idm-trial-reset-tool-2024-v6 42](https://github.com/user-attachments/assets/d025c3ca-a079-41cb-a78a-09894adc3b43)
 
+https://www.idmtrialreset.com/
+
 ## Download
 
-You can get the latest version [here](https://www.idmlover.com/2022/01/download-idm-trial-reset.html?ref=github)
+You can get the latest version [here](https://www.idmtrialreset.com/)
 
 ## Screenshot
 ![idm-trial-reset](https://i.imgur.com/xUGaHMK.gif)
